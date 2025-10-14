@@ -106,7 +106,7 @@ O aplicativo segue as diretrizes do Material Design 3 com:
 
 ## 👨‍💻 Desenvolvido por
 
-Luís Eduardo - Atividade 04 - Programação para Dispositivos Móveis
+Luis Eduardo - Atividade 04 - Programação para Dispositivos Móveis
 
 ---
 
