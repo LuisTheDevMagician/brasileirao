@@ -2,6 +2,11 @@
 
 Aplicativo mobile para acompanhamento do Campeonato Brasileiro de Futebol 2025.
 
+# LINKS:
+Linkedin: 
+
+Youtube: https://youtu.be/IGEQGPvK68c
+
 ## 📱 Funcionalidades Implementadas
 
 ### ✅ Tela de Classificação
