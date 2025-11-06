@@ -3,7 +3,7 @@
 Aplicativo mobile para acompanhamento do Campeonato Brasileiro de Futebol 2025.
 
 # LINKS:
-Linkedin: 
+Linkedin: https://www.linkedin.com/pulse/brasileir%C3%A3o-flutter-luis-eduardo-onckf/?trackingId=%2Fk%2Fz9WL5%2FUsoT88HEMyN5w%3D%3D
 
 Youtube: https://youtu.be/IGEQGPvK68c
 
